@@ -1,0 +1,9 @@
+class Ejemplo {
+float Cuenta, Numero, Resultado;
+int Num, Cons;
+read (Num);
+Cuenta = 23 + (Numero + Num);
+Numero = Cuenta * 123.99;
+Resultado = Numero+Cuenta;
+write(Resultado);
+}

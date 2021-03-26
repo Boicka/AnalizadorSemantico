@@ -1,0 +1,61 @@
+
+Simbolos:
+
+
+Palabras Reservadas:
+class
+float
+int
+read
+write
+
+Tokens:
+Lexema -> class| Clasificacion -> Palabra reservada| Atributo -> 400.0| Tipo -> Clase| Repeticiones--> 0
+Lexema -> Ejemplo| Clasificacion -> Identificador| Atributo -> 500.0| Tipo -> Int| Repeticiones--> 1
+Lexema -> {| Clasificacion -> Carácter simple| Atributo -> 123.0| Tipo -> Llave que abre| Repeticiones--> 0
+Lexema -> float| Clasificacion -> Palabra reservada| Atributo -> 400.0| Tipo -> Tipo de dato| Repeticiones--> 0
+Lexema -> Cuenta| Clasificacion -> Identificador| Atributo -> 501.0| Tipo -> Int| Repeticiones--> 1
+Lexema -> ,| Clasificacion -> Carácter simple| Atributo -> 44.0| Tipo -> Coma| Repeticiones--> 0
+Lexema -> Numero| Clasificacion -> Identificador| Atributo -> 502.0| Tipo -> Int| Repeticiones--> 1
+Lexema -> ,| Clasificacion -> Carácter simple| Atributo -> 44.0| Tipo -> Coma| Repeticiones--> 0
+Lexema -> Resultado| Clasificacion -> Identificador| Atributo -> 503.0| Tipo -> Int| Repeticiones--> 1
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 59.0| Tipo -> Punto y coma| Repeticiones--> 0
+Lexema -> int| Clasificacion -> Palabra reservada| Atributo -> 401.0| Tipo -> Tipo de dato| Repeticiones--> 0
+Lexema -> Num| Clasificacion -> Identificador| Atributo -> 504.0| Tipo -> Int| Repeticiones--> 1
+Lexema -> ,| Clasificacion -> Carácter simple| Atributo -> 44.0| Tipo -> Coma| Repeticiones--> 0
+Lexema -> Cons| Clasificacion -> Identificador| Atributo -> 505.0| Tipo -> Int| Repeticiones--> 1
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 59.0| Tipo -> Punto y coma| Repeticiones--> 0
+Lexema -> read| Clasificacion -> Palabra reservada| Atributo -> 402.0| Tipo -> Tipo de dato| Repeticiones--> 0
+Lexema -> (| Clasificacion -> Carácter simple| Atributo -> 40.0| Tipo -> Parentesis que abre| Repeticiones--> 0
+Lexema -> Num| Clasificacion -> Identificador| Atributo -> 506.0| Tipo -> Int| Repeticiones--> 2
+Lexema -> )| Clasificacion -> Carácter simple| Atributo -> 41.0| Tipo -> Parentesis que cierra| Repeticiones--> 0
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 59.0| Tipo -> Punto y coma| Repeticiones--> 0
+Lexema -> Cuenta| Clasificacion -> Identificador| Atributo -> 507.0| Tipo -> Int| Repeticiones--> 2
+Lexema -> =| Clasificacion -> Carácter simple| Atributo -> 61.0| Tipo -> Igual| Repeticiones--> 0
+Lexema -> 23| Clasificacion -> Número natural| Atributo -> 23.0| Tipo -> int| Repeticiones--> 0
+Lexema -> +| Clasificacion -> Carácter simple| Atributo -> 43.0| Tipo -> Operador suma| Repeticiones--> 0
+Lexema -> (| Clasificacion -> Carácter simple| Atributo -> 40.0| Tipo -> Parentesis que abre| Repeticiones--> 0
+Lexema -> Numero| Clasificacion -> Identificador| Atributo -> 508.0| Tipo -> Int| Repeticiones--> 2
+Lexema -> +| Clasificacion -> Carácter simple| Atributo -> 43.0| Tipo -> Operador suma| Repeticiones--> 0
+Lexema -> Num| Clasificacion -> Identificador| Atributo -> 509.0| Tipo -> Int| Repeticiones--> 3
+Lexema -> )| Clasificacion -> Carácter simple| Atributo -> 41.0| Tipo -> Parentesis que cierra| Repeticiones--> 0
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 59.0| Tipo -> Punto y coma| Repeticiones--> 0
+Lexema -> Numero| Clasificacion -> Identificador| Atributo -> 510.0| Tipo -> Int| Repeticiones--> 3
+Lexema -> =| Clasificacion -> Carácter simple| Atributo -> 61.0| Tipo -> Igual| Repeticiones--> 0
+Lexema -> Cuenta| Clasificacion -> Identificador| Atributo -> 511.0| Tipo -> Int| Repeticiones--> 3
+Lexema -> *| Clasificacion -> Carácter simple| Atributo -> 42.0| Tipo -> Multiplicación| Repeticiones--> 0
+Lexema -> 123.99| Clasificacion -> Número flotante| Atributo -> 123.99| Tipo -> float| Repeticiones--> 0
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 59.0| Tipo -> Punto y coma| Repeticiones--> 0
+Lexema -> Resultado| Clasificacion -> Identificador| Atributo -> 512.0| Tipo -> Int| Repeticiones--> 2
+Lexema -> =| Clasificacion -> Carácter simple| Atributo -> 61.0| Tipo -> Igual| Repeticiones--> 0
+Lexema -> Numero| Clasificacion -> Identificador| Atributo -> 513.0| Tipo -> Int| Repeticiones--> 4
+Lexema -> +| Clasificacion -> Carácter simple| Atributo -> 43.0| Tipo -> Operador suma| Repeticiones--> 0
+Lexema -> Cuenta| Clasificacion -> Identificador| Atributo -> 514.0| Tipo -> Int| Repeticiones--> 4
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 59.0| Tipo -> Punto y coma| Repeticiones--> 0
+Lexema -> write| Clasificacion -> Palabra reservada| Atributo -> 403.0| Tipo -> Tipo de dato| Repeticiones--> 0
+Lexema -> (| Clasificacion -> Carácter simple| Atributo -> 40.0| Tipo -> Parentesis que abre| Repeticiones--> 0
+Lexema -> Resultado| Clasificacion -> Identificador| Atributo -> 515.0| Tipo -> Int| Repeticiones--> 3
+Lexema -> )| Clasificacion -> Carácter simple| Atributo -> 41.0| Tipo -> Parentesis que cierra| Repeticiones--> 0
+Lexema -> ;| Clasificacion -> Carácter simple| Atributo -> 59.0| Tipo -> Punto y coma| Repeticiones--> 0
+Lexema -> }| Clasificacion -> Carácter simple| Atributo -> 125.0| Tipo -> Llave que cierra| Repeticiones--> 0
+
